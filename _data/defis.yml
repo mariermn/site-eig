@@ -1245,6 +1245,15 @@
   mentors:
     - "Olivier Garry"
     - "Thomas Lesueur"
+  key_figures:
+- amount: 2000
+- description: "usagers en étude quantitative"
+- amount: 30
+- description: "heures d'entretiens usagers"
+- amount: 5
+- description: "ateliers internes et externes"
+- amount: 46
+- description: "fiches thématiques à l'ouverture"
 
 "Sequoia IGN":
   image: /img/defis/dig/Sequoia.png
