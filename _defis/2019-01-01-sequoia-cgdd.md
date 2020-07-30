@@ -25,6 +25,6 @@ Etant complémentaire du site institutionnel du Ministère (MTES) - centré sur 
 * **Des fiches thématiques présentant les enjeux environnementaux.** Conçues avec différents niveaux de lecture (du grand public à l’expert), les fiches permettent à chaque usager de comprendre les enjeux.
 * **Une base de plus de 20 000 ressources en ligne.** Les fiches thématiques orientent vers les ressources pertinentes collectées au niveau national et dans les territoires (DREAL) afin de fonder chaque information sur les documents publics gratuits disponibles en ligne. 
 * **Un accès à des services ciblés.** D’un annuaire d’acteurs locaux à des simulateurs d’aide à la décision ou encore un compte personnel ; le portail permet in fine d’orienter les usagers vers des services ou des offres partenaires existantes (IGN, Ademe, CEREMA, etc.)
-* **Une ofre d'actualité pour comprendre les enjeux.** La publication d’actualités régulières permettra également d’éclairer des événements par une valorisation des ressources et des fiches thématiques du portail.
+* **Une offre d'actualité pour comprendre les enjeux.** La publication d’actualités régulières permettra également d’éclairer des événements par une valorisation des ressources et des fiches thématiques du portail.
 
 À la fin du défi, d’une durée de 12 mois, le portail Ombel est sorti en version MVP (Projet Minimum Viable). Vont alors s’ensuivre des séries de tests utilisateurs pour aboutir à des améliorations ainsi que la conception d’une version ultérieure réservant de belles surprises aux lecteurs !
